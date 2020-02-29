@@ -8,4 +8,4 @@ There is a rental car company that has two rental stations, the rental car compa
 
 2. We assume each customer returns the car in one time step
 
-[]
+(code)[q_learning.rmd]
