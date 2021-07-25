@@ -1,5 +1,6 @@
 # Q-Learning-in-R
 
+This is the assignment 3 of OSU CPDA Machine Learning course 
 ## Problem
 There is a rental car company that has two rental stations, the rental car company has 10 cars in total, we want to use solve the car dispatch problem with Q-learning. 
 
